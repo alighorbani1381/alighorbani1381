@@ -16,29 +16,22 @@ but I don't say it
 ## Languages and Skils 🤹‍
 
 ### BackEnd 🔧
-- PHP
-- Laravel
-- Livewire
-- API (Restful api)
+PHP, Laravel, Livewire, API (Restful api)
+
 
 ### FrontEnd 🎨
-- HTML
-- CSS
-- Bootstrap
-- Javascript
-- jQuery
+<div class="toggle-hide"> HTML, CSS, Bootstrap, Javascript, jQuery </div>
+  
 
 ### Tools 🧪
-- VScode
-- Vim
-- Composer
-- PHPUnit
+VS Code, Vim, Composer, PHPUnit
+
 
 ### AnotherSkils 🗂
-- Linux
-- WebScraping
-- Teaching
-- Telegram Bot Development
+Linux, WebScraping, Teaching, Telegram Bot Development
+
+
+
 
 
     
@@ -46,4 +39,3 @@ but I don't say it
 - 📫 How to reach me: 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/alighorbani1381)](https://t.me/alighorbani1381)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white&link=alighorbani20002@gmail.com)](mailto:alighorbani20002@gmail.com)
-
