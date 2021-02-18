@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi Guys 👋
+What Have You done for open source community today?
 
-<!--
-**alighorbani1381/alighorbani1381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 👨‍💻
+I'm Ali Ghorbani, BackEnd developer with about 2 years of experience.
+<br>
+I use PHP and Laravel Freamwork, Livewire, Javascript and Sometimes I Use the my skils to handel frontEnd you can call me Full Stack Developer :)
+<br>
 
-Here are some ideas to get you started:
+## Languages and Detail
+Write this part in another Time
+    
+## I'm ready for remote projects    
+- 📫 How to reach me: 
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/alighorbani1381)](https://t.me/alighorbani1381)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white&link=alighorbani20002@gmail.com)](mailto:alighorbani20002@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
