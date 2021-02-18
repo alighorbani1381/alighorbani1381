@@ -1,14 +1,46 @@
-## Hi Guys 👋
-What Have You done for open source community today?
+## Hi Guys 👋😎
+what's up guys!
+
+Are you great or no?
+
+
+you can read this page to know me better
 
 ## About Me 👨‍💻
 I'm Ali Ghorbani, BackEnd developer with about 2 years of experience.
 <br>
-I use PHP and Laravel Freamwork, Livewire, Javascript and Sometimes I Use the my skils to handel frontEnd you can call me Full Stack Developer :)
+I use PHP and Laravel Framework, Livewire, Javascript and Sometimes I Use the my skils to handel FrontEnd in Projects You can call Me Full Stack Developer :)
+but I don't say it
 <br>
 
-## Languages and Detail
-Write this part in another Time
+## Languages and Skils 🤹‍
+
+### BackEnd 🔧
+- PHP
+- Laravel
+- Livewire
+- API (Restful api)
+
+### FrontEnd 🎨
+- HTML
+- CSS
+- Bootstrap
+- Javascript
+- jQuery
+
+### Tools 🧪
+- VScode
+- Vim
+- Composer
+- PHPUnit
+
+### AnotherSkils 🗂
+- Linux
+- WebScraping
+- Teaching
+- Telegram Bot Development
+
+
     
 ## I'm ready for remote projects    
 - 📫 How to reach me: 
