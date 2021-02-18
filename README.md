@@ -11,7 +11,7 @@ but I don't say it
 ## Languages and Skils 🤹‍
 
 ### BackEnd 🔧
-PHP, Laravel, Livewire, API (Restful api)
+PHP, Laravel, Livewire, MYSQL
 
 
 ### FrontEnd 🎨
@@ -23,7 +23,7 @@ VS Code, Vim, Composer, PHPUnit
 
 
 ### AnotherSkils 🗂
-Linux, WebScraping, Teaching, Telegram Bot Development
+Linux, WebScraping, Teaching, Wordpress
 
 
 ## I'm Ready For Remote Projects    
