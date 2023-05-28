@@ -70,6 +70,6 @@ to learn new things in my field
 <br/>
  
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mstorage2.mtabazi.com/records/files/uploads/documents/06891e25-bdae-4414-8f80-944394382375.pdf?requester=33372e3235342e3231332e313632&resource=753a32313130393633&from=63765f7472616e73&X-Amz-Content-Sha256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=oetSom924MQvtCRu9N6vvQ4bt8cG9HSpRnxWU756SyWy5NVt6nTpmfA9aV2b%2F20230528%2F%2Fs3%2Faws4_request&X-Amz-Date=20230528T184404Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=6b5f3888d90c984baf50d2d0c8dc8d42cb4a312a47472861b7b2ad436d091368)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alighorbani1)
+[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mstorage2.mtabazi.com/records/files/uploads/documents/06891e25-bdae-4414-8f80-944394382375.pdf?requester=33372e3235342e3231332e313632&resource=753a32313130393633&from=63765f7472616e73&X-Amz-Content-Sha256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=oetSom924MQvtCRu9N6vvQ4bt8cG9HSpRnxWU756SyWy5NVt6nTpmfA9aV2b%2F20230528%2F%2Fs3%2Faws4_request&X-Amz-Date=20230528T184404Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=6b5f3888d90c984baf50d2d0c8dc8d42cb4a312a47472861b7b2ad436d091368){:target="_blank"}
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alighorbani1)){:target="_blank"}
 
